@@ -12,4 +12,5 @@ com.vaultapp.tests.controller
 com.vaultapp.tests.login
 com.vaultapp.tests.utilities
 com.vaultapp.utilities
+com.vaultapp.utilities.filters
 com.vaultapp.view.cli
